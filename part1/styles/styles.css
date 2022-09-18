@@ -49,7 +49,7 @@ ul li:first-of-type
     color:blue;
 }
 
-/**/
+/*Using a pseudo-class selector, select the last item in  management team list and make it red.*/
 ul li:last-of-type{
     color:red;
 }
